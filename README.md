@@ -1,4 +1,4 @@
-# EYANTRA PICK AND PLACE HARVESTER ROBOT
+# Eyantra Pick And Place Harvester Robot
 
 ## Problem Statement
 
@@ -7,4 +7,10 @@ Given an arena of a fruit farm design a mobile robot that would navigate the are
 Finally after collecting the fruits the bot should navigate and drop the fruits in the goal region. The start and the goal grid will be decided by the evaluator.
 
 # Video 
+
+_Black Line Follower robot implementation:_
+
+https://user-images.githubusercontent.com/37972955/123161014-8366e280-d48c-11eb-88ff-8033c205515c.mp4
+
+
 
