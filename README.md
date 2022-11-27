@@ -15,5 +15,8 @@ _Black Line Follower robot implementation:_
 
 https://user-images.githubusercontent.com/37972955/123161014-8366e280-d48c-11eb-88ff-8033c205515c.mp4
 
+Pick and Place Testing
+
+https://user-images.githubusercontent.com/37972955/204129289-edadb17c-4c9c-456d-9bf7-f9c601d9faae.mp4
 
 
