@@ -7,7 +7,7 @@ Given an arena of a fruit farm design a mobile robot that would navigate the are
 Finally after collecting the fruits the bot should navigate and drop the fruits in the goal region. The start and the goal grid will be decided by the evaluator.
 
 ## For a detailed description of the project 
-Check  1. Task3-Theme and Implementation Analysis.docx
+Check  1. [Task3-Theme and Implementation Analysis.docx](https://github.com/Akashleena/Eyantra/blob/master/1.%20Task3-Theme%20and%20Implementation%20Analysis.docx) 
 
 # Video 
 
